@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Supplies Me</string>
+    <string name="open_student">Students + Supplies = Success!</string>
+    <string name="open_teachers">Less Teacher Cost = Success!</string>
+    <string name="open_administration">Happy Students + Teachers = Success!</string>
+    <string name="open_environment">Supplies OUT of Landfills = Success!</string>
+    <string name="open_welcome">Create SUCCESS...</string>
+    <string name="open_welcome_ii">SUPPLIES ME!</string>
+    <string name="open_start">Get started</string>
+    <string name="logout">Logout</string>
+    <string name="give_supplies">Provide supplies</string>
+    <string name="receive_supplies">Receive supplies</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="messenger_link">link to Messenger app</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="messengername">Name as it appears in Messenger</string>
+    <string name="zip">Zip Code (where you will be exchanging)</string>
+    <string name="purpose">I would like to:</string>
+    <string name="registerlink">Register here</string>
+    <string name="loginlink"><u>If your details do not appear, click here to Login</u></string>
+    <string name="process">How does it work?</string>
+    <string name="purpose_explanation">The Supplies Me initiative distributes used/usable supplies to children in under resourced schools.</string>
+    <string name="step_one">1. Find a match based on zip code and preferred distance.</string>
+    <string name="step_two">2. Using Messenger or Messenger Lite, arrange to exchange supplies.</string>
+    <string name="option_one">Give usable supplies from your home...</string>
+    <string name="option_two">...or collect from your community!</string>
+    <string name="option_three">To receive, reach out to any number of participants.</string>
+    <string name="contribution_appreciation">Your contribution is appreciated!</string>
+    <string name="examples">items include: pencils, erasers, sharpeners, pens, crayons, highlighters, markers, notebooks, paper, folders, binders, glue, scissors, backpacks, rulers, pencil cases, small toys, anything school related!</string>
+    <string name="disclaimer">Signing up is no guarantee of finding a match.</string>
+    <string name="encourage_disclaimer">Encourage participation in your community, so you are more likely to find a match nearby!</string>
+    <string name="give_supplies_ii">Find someone in need of supplies</string>
+    <string name="receive_supplies_ii">Find someone who has supplies to give</string>
+    <string name="select_here">Make a selection to find a match:</string>
+    <string name="show_password">show password</string>
+    <string name="messenger_name">Messenger Name</string>
+    <string name="zip_code">zip code</string>
+    <string name="register_failed">Registration failed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
